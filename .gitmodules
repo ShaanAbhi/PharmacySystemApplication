@@ -1,0 +1,3 @@
+[submodule "PharmacySystemApp"]
+	path = PharmacySystemApp
+	url = https://github.com/ShaanAbhi/PharmacySystemApplication.git
